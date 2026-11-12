@@ -3,8 +3,5 @@ __pycache__/
 .venv/
 venv/
 .env
-.ipynb_checkpoints/
-.DS_Store
-
 artifacts/*.joblib
 artifacts/*.json
